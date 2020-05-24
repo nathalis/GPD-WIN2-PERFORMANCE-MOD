@@ -5,6 +5,7 @@ improve your gpd win 2 performance: Increase Intel GPU memory from 128MB to 1024
 https://raw.githubusercontent.com/nathalis/GPD-WIN2-PERFORMANCE-MOD/master/1024MB-gpu-memory.reg
 https://raw.githubusercontent.com/nathalis/GPD-WIN2-PERFORMANCE-MOD/master/512MB-gpu-memory.reg
 
+after aplied file, you need restart computer
 
 ---
 
